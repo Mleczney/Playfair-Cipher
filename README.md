@@ -1,6 +1,6 @@
-# PlayFairFix
+# PlayFair
 
-**PlayFairFix** je desktopová aplikace (Windows Forms v C#), která umožňuje šifrování a dešifrování textu pomocí modifikované Playfair šifry s podporou českého a anglického jazyka. Program také normalizuje vstupní text, včetně převedení diakritiky a čísel na písmena, a zajišťuje vizuální formátování výstupu.
+**PlayFair** je desktopová aplikace (Windows Forms v C#), která umožňuje šifrování a dešifrování textu pomocí modifikované Playfair šifry s podporou českého a anglického jazyka. Program také normalizuje vstupní text, včetně převedení diakritiky a čísel na písmena, a zajišťuje vizuální formátování výstupu.
 
 ---
 
