@@ -55,11 +55,11 @@ Probíhá podle pravidel Playfair šifry:
 ## 🧪 Ukázka
 
 **Vstup:**
-Klíč: tajnyklic
-Text: ahoj světe 123
+- Klíč: tajnyklic
+- Text: ahoj světe 123
 **Po úpravě:**
-AHOJXSVETEXONETWOTHREE
+- AHOJXSVETEXONETWOTHREE
 **Výstup:**
-Šifrovaný text: FYGHD RPBAF HYRLP KWHGA
+- Šifrovaný text: FYGHD RPBAF HYRLP KWHGA
 
 ---
